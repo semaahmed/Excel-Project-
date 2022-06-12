@@ -1,7 +1,7 @@
-### Excel-Project
-# Name: Bike_Buyers Dataset .
+# Excel-Project
+### Name: Bike_Buyers Dataset .
 
-# I have done adashboard using Pivot table to answer some questions about abike_buyers dataset and draw charts.
+### I have done adashboard using Pivot table to answer some questions about abike_buyers dataset and draw charts.
 
 - Q1: What's the average income per purchase?
 
